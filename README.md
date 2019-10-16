@@ -3,21 +3,21 @@
 
 > Example of a fullstack app using Vue.js, Express and MongoDB. You will need to edit the MongoDB connection string in server/routes/api/posts.js to your own.
 
-![image](sm1.png)
-![image](sm2.png)
+![image](ss/sm1.png)
+![image](ss/sm2.png)
 
-![image](metanew.png)
-![image](metanewconn.png)
+![image](ss/metanew.png)
+![image](ss/metanewconn.png)
 
-![image](metanewconn.png)
-![image](metanewconn.png)
-![image](metanewconn.png)
+![image](ss/metanewconn.png)
+![image](ss/metanewconn.png)
+![image](ss/metanewconn.png)
 
-![image](meta.png)
-![image](gan.png)
-![image](ganprivate.png)
-![image](bf.png)
-![image](metaaftervote.png)
+![image](ss/meta.png)
+![image](ss/gan.png)
+![image](ss/ganprivate.png)
+![image](ss/bf.png)
+![image](ss/metaaftervote.png)
 
 
 
